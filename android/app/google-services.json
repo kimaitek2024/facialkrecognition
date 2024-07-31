@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978824283709",
+    "project_id": "facial-recognition-crxq2y",
+    "storage_bucket": "facial-recognition-crxq2y.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978824283709:android:0121d4ccb1e63df32b8c54",
+        "android_client_info": {
+          "package_name": "com.mycompany.aanp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaq3aC3WUozhlN9wVuX4LRBCi532AC9ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
